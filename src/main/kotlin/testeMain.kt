@@ -1,3 +1,0 @@
-class testeMain {
-   teste
-}
