@@ -1,2 +1,3 @@
 class testeMain {
+   teste
 }
